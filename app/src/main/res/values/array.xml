@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_list">
+        <item>Filter Based on Sector</item>
+        <item>NHS Sector</item>
+        <item>Independent Sector</item>
+    </string-array>
+
+    <string-array name="search_filter_list">
+        <item>""</item>
+        <item>NHS</item>
+        <item>Independent</item>
+    </string-array>
+
+</resources>
